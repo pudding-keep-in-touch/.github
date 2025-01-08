@@ -1,11 +1,12 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
+![meta_image](https://keep-in-touch.me/meta_image.png)<br />
+
 <br />
 <div align="center">
-
-  <h3 align="center">KEEP IN TOUCH Frontend</h3>
-
+  
+  <h3 align="center">KEEP IN TOUCH</h3>
   <p align="center">
     푸딩캠프 토이스토리 3팀 
     <br />
@@ -22,6 +23,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![logo](https://keep-in-touch.me/header_title.svg)<br />
 너에게 닿기를(Keep in touch)
 
 ### 프로젝트 비전
